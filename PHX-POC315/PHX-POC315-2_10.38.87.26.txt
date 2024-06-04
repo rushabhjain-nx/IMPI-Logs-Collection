@@ -1,0 +1,65 @@
+   1 | 12/22/2021 | 23:56:58 | Unknown #0xff |  | Asserted
+   2 | 12/23/2021 | 00:14:51 | Button #0xff | Power Button pressed () | Asserted
+   3 | 12/27/2021 | 11:18:37 | System Event #0xff | PEF Action () | Asserted
+   4 | 12/27/2021 | 11:19:18 | System Event #0xff | PEF Action () | Asserted
+   5 | 09/14/2022 | 14:25:40 | System Event #0xff | PEF Action () | Asserted
+   6 | 09/14/2022 | 14:26:09 | System Event #0xff | PEF Action () | Asserted
+   7 | 09/26/2022 | 06:35:48 | System Event #0xff | PEF Action () | Asserted
+   8 | 09/26/2022 | 06:36:16 | System Event #0xff | PEF Action () | Asserted
+   9 | 09/26/2022 | 13:00:39 | Unknown |  | Asserted
+   a | 09/26/2022 | 13:00:39 | Unknown |  | Asserted
+   b | 09/26/2022 | 13:17:53 | Unknown |  | Asserted
+   c | 09/26/2022 | 13:17:53 | Unknown |  | Asserted
+   d | 09/26/2022 | 13:19:39 | Unknown |  | Asserted
+   e | 09/27/2022 | 17:10:47 | System Event #0xff | PEF Action () | Asserted
+   f | 09/27/2022 | 17:11:31 | System Event #0xff | PEF Action () | Asserted
+  10 | 09/30/2022 | 10:09:54 | System Event #0xff | PEF Action () | Asserted
+  11 | 09/30/2022 | 10:10:30 | System Event #0xff | PEF Action () | Asserted
+  12 | 11/15/2022 | 11:23:36 | System Event #0xff | PEF Action () | Asserted
+  13 | 11/15/2022 | 11:24:14 | System Event #0xff | PEF Action () | Asserted
+  14 | 11/22/2022 | 10:07:55 | System Event #0xff | PEF Action () | Asserted
+  15 | 11/22/2022 | 10:08:27 | System Event #0xff | PEF Action () | Asserted
+  16 | 01/05/2023 | 03:00:42 | System Event #0xff | PEF Action () | Asserted
+  17 | 01/05/2023 | 03:01:40 | System Event #0xff | PEF Action () | Asserted
+  18 | 01/31/2023 | 11:29:00 | System Event #0xff | PEF Action () | Asserted
+  19 | 01/31/2023 | 11:29:44 | System Event #0xff | PEF Action () | Asserted
+  1a | 02/28/2023 | 11:00:48 | System Event #0xff | PEF Action () | Asserted
+  1b | 02/28/2023 | 11:01:48 | System Event #0xff | PEF Action () | Asserted
+  1c | 04/11/2023 | 10:01:00 | System Event #0xff | PEF Action () | Asserted
+  1d | 04/11/2023 | 10:01:51 | System Event #0xff | PEF Action () | Asserted
+  1e | 08/03/2023 | 12:57:26 | System Event #0xff | PEF Action () | Asserted
+  1f | 08/03/2023 | 12:58:20 | System Event #0xff | PEF Action () | Asserted
+  20 | 09/24/2023 | 13:43:43 | System Event #0xff | PEF Action () | Asserted
+  21 | 09/24/2023 | 13:44:12 | System Event #0xff | PEF Action () | Asserted
+  22 | 09/24/2023 | 13:58:21 | Unknown |  | Asserted
+  23 | 09/24/2023 | 13:58:27 | System Event #0xff | PEF Action () | Asserted
+  24 | 09/24/2023 | 14:05:37 | System Event #0xff | PEF Action () | Asserted
+  25 | 09/28/2023 | 13:24:20 | System Event #0xff | PEF Action () | Asserted
+  26 | 09/28/2023 | 18:17:29 | System Event #0xff | PEF Action () | Asserted
+  27 | 09/29/2023 | 05:55:27 | System Event #0xff | PEF Action () | Asserted
+  28 | 09/29/2023 | 06:56:45 | System Event #0xff | PEF Action () | Asserted
+  29 | 09/29/2023 | 07:00:57 | System Event #0xff | PEF Action () | Asserted
+  2a | 09/29/2023 | 07:40:36 | System Event #0xff | PEF Action () | Asserted
+  2b | 09/29/2023 | 08:14:11 | Unknown |  | Asserted
+  2c | 09/29/2023 | 08:20:25 | Unknown |  | Asserted
+  2d | 09/29/2023 | 09:00:57 | System Event #0xff | PEF Action () | Asserted
+  2e | 09/29/2023 | 09:13:41 | System Event #0xff | PEF Action () | Asserted
+  2f | 09/29/2023 | 10:26:56 | System Event #0xff | PEF Action () | Asserted
+  30 | 09/29/2023 | 10:33:49 | System Event #0xff | PEF Action () | Asserted
+  31 | 09/29/2023 | 14:40:58 | System Event #0xff | PEF Action () | Asserted
+  32 | 09/29/2023 | 16:40:14 | System Event #0xff | PEF Action () | Asserted
+  33 | 09/29/2023 | 17:13:56 | System Event #0xff | PEF Action () | Asserted
+  34 | 09/30/2023 | 12:53:38 | System Event #0xff | PEF Action () | Asserted
+  35 | 10/01/2023 | 06:08:35 | System Event #0xff | PEF Action () | Asserted
+  36 | 10/01/2023 | 06:15:24 | System Event #0xff | PEF Action () | Asserted
+  37 | 10/01/2023 | 06:17:05 | System Event #0xff | PEF Action () | Asserted
+  38 | 10/01/2023 | 06:20:04 | System Event #0xff | PEF Action () | Asserted
+  39 | 10/01/2023 | 06:47:29 | System Event #0xff | PEF Action () | Asserted
+  3a | 10/04/2023 | 09:12:05 | System Event #0xff | PEF Action () | Asserted
+  3b | 10/04/2023 | 09:12:13 | System Event #0xff | PEF Action () | Asserted
+  3c | 10/04/2023 | 09:12:28 | System Event #0xff | PEF Action () | Asserted
+  3d | 10/04/2023 | 09:54:54 | System Event #0xff | PEF Action () | Asserted
+  3e | 11/07/2023 | 14:47:48 | System Event #0xff | PEF Action () | Asserted
+  3f | 11/07/2023 | 14:48:27 | System Event #0xff | PEF Action () | Asserted
+  40 | 12/13/2023 | 09:24:11 | System Event #0xff | PEF Action () | Asserted
+  41 | 12/13/2023 | 09:24:59 | System Event #0xff | PEF Action () | Asserted

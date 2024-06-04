@@ -1,0 +1,188 @@
+   1 | 12/22/2021 | 23:54:42 | Unknown #0xff |  | Asserted
+   2 | 12/23/2021 | 00:12:34 | Button #0xff | Power Button pressed () | Asserted
+   3 | 12/27/2021 | 11:16:28 | System Event #0xff | PEF Action () | Asserted
+   4 | 12/27/2021 | 11:17:11 | System Event #0xff | PEF Action () | Asserted
+   5 | 07/09/2022 | 16:14:03 | Memory | Correctable ECC (@DIMMF1(CPU2)) | Asserted
+   6 | 09/14/2022 | 14:22:20 | System Event #0xff | PEF Action () | Asserted
+   7 | 09/14/2022 | 14:23:02 | System Event #0xff | PEF Action () | Asserted
+   8 | 09/26/2022 | 06:32:21 | System Event #0xff | PEF Action () | Asserted
+   9 | 09/26/2022 | 06:32:48 | System Event #0xff | PEF Action () | Asserted
+   a | 09/26/2022 | 11:39:52 | Unknown |  | Asserted
+   b | 09/26/2022 | 11:39:52 | Unknown |  | Asserted
+   c | 09/26/2022 | 11:57:03 | Unknown |  | Asserted
+   d | 09/26/2022 | 11:57:03 | Unknown |  | Asserted
+   e | 09/26/2022 | 11:58:49 | Unknown |  | Asserted
+   f | 09/27/2022 | 17:10:48 | System Event #0xff | PEF Action () | Asserted
+  10 | 09/27/2022 | 17:11:18 | System Event #0xff | PEF Action () | Asserted
+  11 | 09/27/2022 | 17:11:59 | Unknown #0xff |  | Asserted
+  12 | 09/27/2022 | 17:32:42 | Unknown #0xff |  | Asserted
+  13 | 09/30/2022 | 10:10:14 | System Event #0xff | PEF Action () | Asserted
+  14 | 09/30/2022 | 10:10:46 | System Event #0xff | PEF Action () | Asserted
+  15 | 10/20/2022 | 13:40:35 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  16 | 11/15/2022 | 11:23:11 | System Event #0xff | PEF Action () | Asserted
+  17 | 11/15/2022 | 11:23:48 | System Event #0xff | PEF Action () | Asserted
+  18 | 11/22/2022 | 10:07:45 | System Event #0xff | PEF Action () | Asserted
+  19 | 11/22/2022 | 10:08:20 | System Event #0xff | PEF Action () | Asserted
+  1a | 11/22/2022 | 10:09:00 | Unknown #0xff |  | Asserted
+  1b | 01/05/2023 | 03:01:02 | System Event #0xff | PEF Action () | Asserted
+  1c | 01/05/2023 | 03:01:38 | System Event #0xff | PEF Action () | Asserted
+  1d | 01/24/2023 | 08:30:41 | Unknown #0xff |  | Asserted
+  1e | 01/31/2023 | 11:28:21 | System Event #0xff | PEF Action () | Asserted
+  1f | 01/31/2023 | 11:29:19 | System Event #0xff | PEF Action () | Asserted
+  20 | 01/31/2023 | 11:30:25 | Unknown #0xff |  | Asserted
+  21 | 01/31/2023 | 11:45:13 | Unknown #0xff |  | Asserted
+  22 | 01/31/2023 | 11:51:32 | Unknown #0xff |  | Asserted
+  23 | 01/31/2023 | 12:01:25 | Unknown #0xff |  | Asserted
+  24 | 02/28/2023 | 11:00:53 | System Event #0xff | PEF Action () | Asserted
+  25 | 02/28/2023 | 11:01:33 | System Event #0xff | PEF Action () | Asserted
+  26 | 02/28/2023 | 11:02:23 | Unknown #0xff |  | Asserted
+  27 | 02/28/2023 | 11:18:30 | Unknown #0xff |  | Asserted
+  28 | 04/11/2023 | 10:00:59 | System Event #0xff | PEF Action () | Asserted
+  29 | 04/11/2023 | 10:01:31 | System Event #0xff | PEF Action () | Asserted
+  2a | 04/11/2023 | 10:02:15 | Unknown #0xff |  | Asserted
+  2b | 04/11/2023 | 10:19:49 | Unknown #0xff |  | Asserted
+  2c | 06/19/2023 | 11:49:37 | Unknown #0xff |  | Asserted
+  2d | 08/03/2023 | 12:57:14 | System Event #0xff | PEF Action () | Asserted
+  2e | 08/03/2023 | 12:57:47 | System Event #0xff | PEF Action () | Asserted
+  2f | 08/03/2023 | 12:58:54 | Unknown #0xff |  | Asserted
+  30 | 08/03/2023 | 13:17:31 | Unknown #0xff |  | Asserted
+  31 | 08/29/2023 | 12:45:09 | Unknown #0xff |  | Asserted
+  32 | 09/06/2023 | 11:34:10 | System Event #0xff | PEF Action () | Asserted
+  33 | 09/06/2023 | 11:34:18 | System Event #0xff | PEF Action () | Asserted
+  34 | 09/06/2023 | 12:35:53 | System Event #0xff | PEF Action () | Asserted
+  35 | 09/07/2023 | 16:51:40 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  36 | 09/08/2023 | 13:26:04 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  37 | 09/09/2023 | 04:31:20 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  38 | 09/18/2023 | 17:19:59 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  39 | 09/24/2023 | 12:02:07 | Unknown #0xff |  | Asserted
+  3a | 09/24/2023 | 12:23:21 | Unknown #0xff |  | Asserted
+  3b | 09/29/2023 | 04:50:31 | System Event #0xff | PEF Action () | Asserted
+  3c | 09/29/2023 | 04:51:06 | Unknown #0xff |  | Asserted
+  3d | 09/29/2023 | 05:37:15 | System Event #0xff | PEF Action () | Asserted
+  3e | 09/29/2023 | 05:37:45 | Unknown #0xff |  | Asserted
+  3f | 09/29/2023 | 07:18:25 | System Event #0xff | PEF Action () | Asserted
+  40 | 09/29/2023 | 07:18:55 | Unknown #0xff |  | Asserted
+  41 | 09/29/2023 | 09:05:36 | Unknown |  | Asserted
+  42 | 09/29/2023 | 09:25:20 | Unknown #0xff |  | Asserted
+  43 | 09/29/2023 | 10:20:40 | System Event #0xff | PEF Action () | Asserted
+  44 | 09/29/2023 | 10:21:10 | Unknown #0xff |  | Asserted
+  45 | 11/07/2023 | 14:47:50 | System Event #0xff | PEF Action () | Asserted
+  46 | 11/07/2023 | 14:48:29 | System Event #0xff | PEF Action () | Asserted
+  47 | 11/09/2023 | 18:24:55 | Unknown #0xff |  | Asserted
+  48 | 12/13/2023 | 09:23:27 | System Event #0xff | PEF Action () | Asserted
+  49 | 12/13/2023 | 09:24:15 | System Event #0xff | PEF Action () | Asserted
+  4a | 12/13/2023 | 09:25:45 | Unknown #0xff |  | Asserted
+  4b | 12/15/2023 | 00:27:04 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  4c | 12/15/2023 | 13:12:18 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  4d | 12/16/2023 | 01:38:24 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  4e | 12/16/2023 | 20:41:56 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  4f | 12/17/2023 | 18:56:10 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  50 | 12/19/2023 | 15:28:46 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  51 | 12/21/2023 | 05:31:21 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  52 | 12/25/2023 | 02:26:04 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  53 | 12/25/2023 | 16:48:11 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  54 | 12/26/2023 | 16:33:08 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  55 | 12/27/2023 | 22:22:02 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  56 | 12/28/2023 | 23:20:47 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  57 | 12/29/2023 | 20:47:15 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  58 | 12/30/2023 | 20:36:40 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  59 | 12/31/2023 | 22:49:01 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  5a | 01/01/2024 | 10:43:44 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  5b | 01/02/2024 | 17:41:58 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  5c | 01/05/2024 | 02:57:02 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  5d | 01/06/2024 | 09:50:48 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  5e | 01/07/2024 | 12:03:09 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  5f | 01/08/2024 | 02:20:48 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  60 | 01/08/2024 | 10:06:57 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  61 | 01/08/2024 | 17:40:19 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  62 | 01/11/2024 | 04:16:27 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  63 | 01/15/2024 | 08:19:59 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  64 | 01/21/2024 | 19:11:11 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  65 | 01/25/2024 | 16:01:26 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  66 | 01/27/2024 | 13:21:47 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  67 | 01/29/2024 | 05:47:19 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  68 | 02/01/2024 | 17:10:16 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  69 | 02/03/2024 | 21:34:59 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  6a | 02/09/2024 | 15:45:35 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  6b | 02/10/2024 | 13:12:03 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  6c | 02/11/2024 | 13:01:28 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  6d | 02/13/2024 | 00:45:35 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  6e | 02/15/2024 | 10:00:39 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  6f | 02/17/2024 | 23:52:39 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  70 | 02/18/2024 | 14:14:46 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  71 | 02/19/2024 | 11:36:47 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  72 | 02/21/2024 | 08:57:08 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  73 | 02/23/2024 | 20:26:12 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  74 | 02/24/2024 | 20:15:37 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  75 | 02/25/2024 | 13:00:40 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  76 | 02/27/2024 | 00:44:48 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  77 | 02/28/2024 | 02:52:41 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  78 | 02/29/2024 | 07:32:27 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  79 | 02/29/2024 | 21:45:38 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  7a | 03/01/2024 | 12:03:17 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  7b | 03/03/2024 | 02:10:21 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  7c | 03/04/2024 | 11:31:32 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  7d | 03/07/2024 | 06:18:22 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  7e | 03/09/2024 | 08:15:40 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  7f | 03/10/2024 | 15:18:23 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  80 | 03/11/2024 | 17:26:16 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  81 | 03/12/2024 | 14:52:45 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  82 | 03/13/2024 | 00:24:31 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  83 | 03/13/2024 | 12:19:13 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  84 | 03/13/2024 | 21:50:59 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  85 | 03/14/2024 | 07:22:45 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  86 | 03/14/2024 | 19:17:28 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  87 | 03/15/2024 | 04:49:14 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  88 | 03/15/2024 | 14:21:00 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  89 | 03/16/2024 | 02:15:42 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  8a | 03/16/2024 | 11:51:56 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  8b | 03/17/2024 | 02:05:07 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  8c | 03/17/2024 | 18:45:43 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  8d | 03/18/2024 | 06:40:25 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  8e | 03/18/2024 | 18:35:08 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  8f | 03/19/2024 | 06:29:50 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  90 | 03/19/2024 | 18:29:01 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  91 | 03/20/2024 | 15:51:01 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  92 | 03/21/2024 | 06:08:40 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  93 | 03/22/2024 | 01:12:12 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  94 | 03/24/2024 | 19:54:33 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  95 | 03/27/2024 | 02:42:12 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  96 | 03/28/2024 | 07:21:58 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  97 | 03/30/2024 | 16:28:05 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  98 | 03/31/2024 | 21:07:51 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  99 | 04/02/2024 | 06:29:02 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  9a | 04/03/2024 | 01:32:34 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  9b | 04/04/2024 | 01:17:30 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  9c | 04/04/2024 | 17:58:06 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  9d | 04/05/2024 | 03:34:20 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  9e | 04/06/2024 | 12:51:02 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  9f | 04/07/2024 | 17:30:48 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  a0 | 04/08/2024 | 12:29:52 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  a1 | 04/10/2024 | 02:36:56 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  a2 | 04/12/2024 | 02:20:13 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  a3 | 04/14/2024 | 01:54:35 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  a4 | 04/15/2024 | 16:06:07 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  a5 | 04/16/2024 | 22:59:53 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  a6 | 04/17/2024 | 22:49:18 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  a7 | 04/18/2024 | 13:11:25 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  a8 | 04/19/2024 | 08:10:29 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  a9 | 04/19/2024 | 20:05:11 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  aa | 04/20/2024 | 07:59:54 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  ab | 04/20/2024 | 19:54:36 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  ac | 04/21/2024 | 10:12:15 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  ad | 04/22/2024 | 02:57:18 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  ae | 04/22/2024 | 21:56:22 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  af | 04/23/2024 | 12:14:01 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  b0 | 04/24/2024 | 02:31:40 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  b1 | 04/24/2024 | 14:30:50 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  b2 | 04/24/2024 | 23:58:08 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  b3 | 04/26/2024 | 02:14:58 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  b4 | 04/27/2024 | 11:36:08 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  b5 | 04/29/2024 | 08:47:33 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  b6 | 04/30/2024 | 08:41:26 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  b7 | 05/01/2024 | 22:44:02 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  b8 | 05/03/2024 | 00:56:23 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  b9 | 05/03/2024 | 19:59:55 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  ba | 05/06/2024 | 12:23:48 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  bb | 05/08/2024 | 11:58:09 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted
+  bc | 05/09/2024 | 21:19:20 | Memory | Correctable ECC (@DIMMD1(CPU1)) | Asserted

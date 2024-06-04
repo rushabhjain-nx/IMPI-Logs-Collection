@@ -1,0 +1,52 @@
+   1 | 12/22/2021 | 23:55:14 | Unknown #0xff |  | Asserted
+   2 | 12/23/2021 | 00:13:05 | Button #0xff | Power Button pressed () | Asserted
+   3 | 12/27/2021 | 11:17:18 | System Event #0xff | PEF Action () | Asserted
+   4 | 12/27/2021 | 11:17:48 | System Event #0xff | PEF Action () | Asserted
+   5 | 09/14/2022 | 14:22:53 | System Event #0xff | PEF Action () | Asserted
+   6 | 09/14/2022 | 14:23:30 | System Event #0xff | PEF Action () | Asserted
+   7 | 09/26/2022 | 06:32:05 | System Event #0xff | PEF Action () | Asserted
+   8 | 09/26/2022 | 06:32:53 | System Event #0xff | PEF Action () | Asserted
+   9 | 09/26/2022 | 14:24:34 | Unknown |  | Asserted
+   a | 09/26/2022 | 14:24:34 | Unknown |  | Asserted
+   b | 09/26/2022 | 14:41:53 | Unknown |  | Asserted
+   c | 09/26/2022 | 14:41:53 | Unknown |  | Asserted
+   d | 09/26/2022 | 14:43:40 | Unknown |  | Asserted
+   e | 09/27/2022 | 17:10:57 | System Event #0xff | PEF Action () | Asserted
+   f | 09/27/2022 | 17:11:35 | System Event #0xff | PEF Action () | Asserted
+  10 | 09/30/2022 | 10:10:04 | System Event #0xff | PEF Action () | Asserted
+  11 | 09/30/2022 | 10:10:40 | System Event #0xff | PEF Action () | Asserted
+  12 | 11/15/2022 | 11:23:02 | System Event #0xff | PEF Action () | Asserted
+  13 | 11/15/2022 | 11:23:51 | System Event #0xff | PEF Action () | Asserted
+  14 | 11/22/2022 | 10:07:32 | System Event #0xff | PEF Action () | Asserted
+  15 | 11/22/2022 | 10:08:11 | System Event #0xff | PEF Action () | Asserted
+  16 | 01/05/2023 | 03:00:52 | System Event #0xff | PEF Action () | Asserted
+  17 | 01/05/2023 | 03:01:24 | System Event #0xff | PEF Action () | Asserted
+  18 | 01/31/2023 | 11:28:36 | System Event #0xff | PEF Action () | Asserted
+  19 | 01/31/2023 | 11:29:07 | System Event #0xff | PEF Action () | Asserted
+  1a | 02/28/2023 | 11:00:54 | System Event #0xff | PEF Action () | Asserted
+  1b | 02/28/2023 | 11:01:31 | System Event #0xff | PEF Action () | Asserted
+  1c | 04/11/2023 | 10:00:58 | System Event #0xff | PEF Action () | Asserted
+  1d | 04/11/2023 | 10:01:52 | System Event #0xff | PEF Action () | Asserted
+  1e | 08/03/2023 | 12:56:45 | System Event #0xff | PEF Action () | Asserted
+  1f | 08/03/2023 | 12:57:39 | System Event #0xff | PEF Action () | Asserted
+  20 | 09/06/2023 | 04:51:05 | System Event #0xff | PEF Action () | Asserted
+  21 | 09/06/2023 | 05:19:36 | System Event #0xff | PEF Action () | Asserted
+  22 | 09/15/2023 | 23:14:31 | Memory | Correctable ECC (@DIMMD2(CPU1)) | Asserted
+  23 | 09/27/2023 | 07:52:40 | System Event #0xff | PEF Action () | Asserted
+  24 | 09/27/2023 | 07:52:40 | System Event #0xff | PEF Action () | Asserted
+  25 | 09/27/2023 | 07:52:57 | Button #0xff | Power Button pressed () | Asserted
+  26 | 09/27/2023 | 08:12:38 | System Event #0xff | PEF Action () | Asserted
+  27 | 09/27/2023 | 08:18:40 | System Event #0xff | PEF Action () | Asserted
+  28 | 09/27/2023 | 08:20:19 | System Event #0xff | PEF Action () | Asserted
+  29 | 09/27/2023 | 08:22:00 | System Event #0xff | PEF Action () | Asserted
+  2a | 09/28/2023 | 08:20:07 | System Event #0xff | PEF Action () | Asserted
+  2b | 09/28/2023 | 10:53:39 | System Event #0xff | PEF Action () | Asserted
+  2c | 09/28/2023 | 10:53:39 | System Event #0xff | PEF Action () | Asserted
+  2d | 09/28/2023 | 10:53:56 | Button #0xff | Power Button pressed () | Asserted
+  2e | 09/28/2023 | 11:00:24 | System Event #0xff | PEF Action () | Asserted
+  2f | 09/28/2023 | 11:13:18 | System Event #0xff | PEF Action () | Asserted
+  30 | 09/28/2023 | 12:48:36 | System Event #0xff | PEF Action () | Asserted
+  31 | 11/07/2023 | 14:47:56 | System Event #0xff | PEF Action () | Asserted
+  32 | 11/07/2023 | 14:48:31 | System Event #0xff | PEF Action () | Asserted
+  33 | 12/13/2023 | 09:24:24 | System Event #0xff | PEF Action () | Asserted
+  34 | 12/13/2023 | 09:25:00 | System Event #0xff | PEF Action () | Asserted
