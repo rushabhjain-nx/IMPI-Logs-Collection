@@ -6,6 +6,10 @@ from getpass import getpass
 import urllib3
 import paramiko
 
+
+
+
+# Author : Rushabh Jain (rushabh.jain@nutanix.com)
 cluster_name = ""
 def ssh_command(ip, username, password, command):
     
